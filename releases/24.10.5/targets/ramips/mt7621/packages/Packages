@@ -1,0 +1,1479 @@
+Package: arptables-nft
+Version: 1.8.10-r1
+Depends: libc, kmod-nft-arp, xtables-nft, kmod-arptables
+Provides: arptables
+Alternatives: 300:/usr/sbin/arptables:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/arptables-restore:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/arptables-save:/usr/sbin/xtables-nft-multi
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: arptables-nft_1.8.10-r1_mipsel_24kc.ipk
+Size: 3053
+SHA256sum: b824fd1f7a8f04f4a17ed301b2a8ac98495b43546de9cfb66179af736e6ad48f
+Description:  ARP firewall administration tool nft
+
+Package: atm-aread
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-aread_2.5.2-r8_mipsel_24kc.ipk
+Size: 2590
+SHA256sum: 2ce3c2e630e65cc349bf3d2846bdfafd19a52cdb491d67be7d35f7b5ec884c4e
+Description:  Linux ATM tool aread.
+
+Package: atm-atmaddr
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-atmaddr_2.5.2-r8_mipsel_24kc.ipk
+Size: 2912
+SHA256sum: 1789d10f5e7308f74358c111034fd9d904bde0fe645afc7f599874132564befa
+Description:  Linux ATM tool atmaddr.
+
+Package: atm-atmdiag
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-atmdiag_2.5.2-r8_mipsel_24kc.ipk
+Size: 2498
+SHA256sum: 6aff4dc9106bc6498165b25767abd61f9fa95b0287846be2618283f1df62300c
+Description:  Linux ATM tool atmdiag.
+
+Package: atm-atmdump
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-atmdump_2.5.2-r8_mipsel_24kc.ipk
+Size: 3405
+SHA256sum: c39d721c074fa73a8fb2f30ea3a81af46b9248f520de15e79b62f6364f1b5fc6
+Description:  Linux ATM tool atmdump.
+
+Package: atm-atmloop
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-atmloop_2.5.2-r8_mipsel_24kc.ipk
+Size: 2862
+SHA256sum: e5d7f752b26b7853105c5336384295962b0736bffe0569a8aea498402b9fb8df
+Description:  Linux ATM tool atmloop.
+
+Package: atm-atmsigd
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 194560
+Filename: atm-atmsigd_2.5.2-r8_mipsel_24kc.ipk
+Size: 64596
+SHA256sum: 4831062829add7bb5d10fd00ba50703a1a89c197602e5a97e95ae297f652dee6
+Description:  Linux ATM tool atmsigd.
+
+Package: atm-atmswitch
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-atmswitch_2.5.2-r8_mipsel_24kc.ipk
+Size: 3091
+SHA256sum: 3c2184e9bc8d863a59f1d5c28cbfceb4068b1934f031d6e0c42c38c0ce97e99d
+Description:  Linux ATM tool atmswitch.
+
+Package: atm-atmtcp
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-atmtcp_2.5.2-r8_mipsel_24kc.ipk
+Size: 7535
+SHA256sum: bc2d81fc9e19e8696d252bf3e9810f1efd5030e01c22aa37eb150b842aa44657
+Description:  Linux ATM tool atmtcp.
+
+Package: atm-awrite
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-awrite_2.5.2-r8_mipsel_24kc.ipk
+Size: 2452
+SHA256sum: f88a3b9f805fb4947f8de2af9891a59e871e0a8f1d52e8bdd211df35d9aa1a39
+Description:  Linux ATM tool awrite.
+
+Package: atm-bus
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-bus_2.5.2-r8_mipsel_24kc.ipk
+Size: 16483
+SHA256sum: 06a950f860da3b911170bda0ac71b96a979afb1a7111d1529d71ffb4075bca60
+Description:  Linux ATM tool bus.
+
+Package: atm-debug-tools
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 1628160
+Filename: atm-debug-tools_2.5.2-r8_mipsel_24kc.ipk
+Size: 216184
+SHA256sum: 25d66f9d0f35870d95ce8d2acce2186ca438d60e662f7cc31f66d73f1dc249a1
+Description:  This package contains the Linux ATM debugging tools.
+
+Package: atm-diagnostics
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 276480
+Filename: atm-diagnostics_2.5.2-r8_mipsel_24kc.ipk
+Size: 8034
+SHA256sum: 424bd32edcbf1d47f2f1697158be94da286d83e35630bf94c0299b5bf54dae39
+Description:  This package contains the Linux ATM diagnostics.
+
+Package: atm-esi
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-esi_2.5.2-r8_mipsel_24kc.ipk
+Size: 2571
+SHA256sum: 2840009b43334239cf06743aadd20e1a08aa682985a1eb976b26179a2ab96ad0
+Description:  Linux ATM tool esi.
+
+Package: atm-ilmid
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-ilmid_2.5.2-r8_mipsel_24kc.ipk
+Size: 18452
+SHA256sum: 5a2d081c1e0d5e67f15c1cc758800f92ae39d740243665564667a45fe20cfc53
+Description:  Linux ATM tool ilmid.
+
+Package: atm-ilmidiag
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-ilmidiag_2.5.2-r8_mipsel_24kc.ipk
+Size: 2822
+SHA256sum: 8b19cd992d81788f74d81c7a1fc560279f5832395a27606f72e62fe0c09d34be
+Description:  Linux ATM tool ilmidiag.
+
+Package: atm-lecs
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-lecs_2.5.2-r8_mipsel_24kc.ipk
+Size: 9737
+SHA256sum: ad5a6d0c11c419b5cdc162b180b055b618b29a403fcd256d6f07448026e7d4a7
+Description:  Linux ATM tool lecs.
+
+Package: atm-les
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-les_2.5.2-r8_mipsel_24kc.ipk
+Size: 19280
+SHA256sum: 76c3c3ccc0efac1814020b7919a741da831a10b37d332b7c30f49cc476e86ffd
+Description:  Linux ATM tool les.
+
+Package: atm-mpcd
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-mpcd_2.5.2-r8_mipsel_24kc.ipk
+Size: 12783
+SHA256sum: b37e7b2513d1d192d23728147763a959d91002dfdcef2b9f6df1dbfa57947f03
+Description:  Linux ATM tool mpcd.
+
+Package: atm-saaldump
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 102400
+Filename: atm-saaldump_2.5.2-r8_mipsel_24kc.ipk
+Size: 24704
+SHA256sum: 0f7ab4e5a01049cd1dce039306b43d565771ef2f9efc71937dc7d2e4c9c6052c
+Description:  Linux ATM tool saaldump.
+
+Package: atm-sonetdiag
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-sonetdiag_2.5.2-r8_mipsel_24kc.ipk
+Size: 2882
+SHA256sum: e622eb633f5ea4ab6bb60964316086bf95541e8f577c591f7373ec13716a074c
+Description:  Linux ATM tool sonetdiag.
+
+Package: atm-svc_recv
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-svc_recv_2.5.2-r8_mipsel_24kc.ipk
+Size: 2997
+SHA256sum: 176dd3f6b89fa05aa84c0fb8e714fec688a1b0dcc7bf75f96366795da2c3b393
+Description:  Linux ATM tool svc_recv.
+
+Package: atm-svc_send
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-svc_send_2.5.2-r8_mipsel_24kc.ipk
+Size: 2734
+SHA256sum: 3c3bb260ca5d5e022b93ef95f07ca3c0baa10ab2800d2e52b3fea6a813f5c5fc
+Description:  Linux ATM tool svc_send.
+
+Package: atm-tools
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: atm-tools_2.5.2-r8_mipsel_24kc.ipk
+Size: 16351
+SHA256sum: 24097615725af324183b766878570f03552c67960245dfa4002d858402f63468
+Description:  This package contains the Linux ATM tools.
+
+Package: atm-ttcp_atm
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-ttcp_atm_2.5.2-r8_mipsel_24kc.ipk
+Size: 8656
+SHA256sum: 0b3a48e587da9f4204f8e6b428fb9c5a8ef96cd89401fba5e33107fbfac07fe2
+Description:  Linux ATM tool ttcp_atm.
+
+Package: atm-zeppelin
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: atm-zeppelin_2.5.2-r8_mipsel_24kc.ipk
+Size: 18542
+SHA256sum: 1dad2523378176ab1ed8dd8524b14b625138fa4f2da094c021076b241a3e6fab
+Description:  Linux ATM tool zeppelin.
+
+Package: automount
+Version: 10
+Depends: libc, block-mount, e2fsprogs, kmod-usb-storage, kmod-usb-storage-extras, kmod-fs-ext4, kmod-fs-exfat, kmod-fs-vfat, ntfs3-mount
+Section: opt
+Architecture: all
+Installed-Size: 10240
+Filename: automount_10_all.ipk
+Size: 1583
+SHA256sum: ae938b9a86921be5f951f70b220e738287fd0e6080e6165d5b9f875a5af51e4e
+Description:  Mount autoconfig hotplug script.
+
+Package: base-files
+Version: 1877~7c4e882aaf6f
+Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, ubi-utils, fstools, fwtool, procd, procd-seccomp, busybox
+License: GPL-2.0
+Section: base
+URL: http://openwrt.org/
+Architecture: mipsel_24kc
+Installed-Size: 337920
+Filename: base-files_1877~7c4e882aaf6f_mipsel_24kc.ipk
+Size: 66464
+SHA256sum: a26eccf8cd993e279d8e80bedc6fa6facf261612305a7177e9f06907b5b028d3
+Description:  This package contains a base filesystem and system scripts for OpenWrt.
+
+Package: block-mount
+Version: 2024.07.14~408c2cc4-r1
+Depends: libc, ubox, libubox20240329, libuci20250120, libblobmsg-json20240329, libjson-c5, fstools
+License: GPL-2.0
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 153600
+Filename: block-mount_2024.07.14~408c2cc4-r1_mipsel_24kc.ipk
+Size: 29518
+SHA256sum: 53720ebf6b5d3351785f48c837677e97b834972e20831b30669275ee15019378
+Description:  Block device mounting and checking
+
+Package: blockd
+Version: 2024.07.14~408c2cc4-r1
+Depends: libc, block-mount, libubus20250102, kmod-fs-autofs4, libblobmsg-json20240329, libjson-c5
+License: GPL-2.0
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: blockd_2024.07.14~408c2cc4-r1_mipsel_24kc.ipk
+Size: 7193
+SHA256sum: 29eb7add50c1f23f2d56066fda2d355f34b6a60af74c0e8f37e03e92688b8824
+Description:  Block device automounting
+
+Package: br2684ctl
+Version: 2.5.2-r8
+Depends: libc, linux-atm
+License: GPL-2.0+
+Section: net
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 81920
+Filename: br2684ctl_2.5.2-r8_mipsel_24kc.ipk
+Size: 5550
+SHA256sum: 6d37958468bd011e957b9f19a7bcb87ed6ff1bf98df9aeada0a4ecc5b82023ea
+Description:  Support for AAL5 encapsulation (RFC-1483/RFC-2684) over ATM.
+
+Package: comgt-directip
+Version: 0.32-r36
+Depends: libc, comgt, kmod-usb-serial, kmod-usb-serial-sierrawireless, kmod-usb-net, kmod-usb-net-sierrawireless
+License: GPL-2.0+
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 10240
+Filename: comgt-directip_0.32-r36_mipsel_24kc.ipk
+Size: 2429
+SHA256sum: b61f6b66720c90cbaf2b4072d4d77466d7ac68e6bbba863667b07389da29eebf
+Description:  Sierra Wireless Direct-IP support
+
+Package: comgt-ncm
+Version: 0.32-r36
+Depends: libc, comgt, wwan, kmod-usb-serial-option, kmod-usb-net-huawei-cdc-ncm
+License: GPL-2.0+
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 20480
+Filename: comgt-ncm_0.32-r36_mipsel_24kc.ipk
+Size: 3733
+SHA256sum: 91230c4435b18f8933da1762fc280f66555c78148404d962a6ea2f4e4b5c31fc
+Description:  NCM 3G/4G Support
+
+Package: comgt
+Version: 0.32-r36
+Depends: libc, chat
+License: GPL-2.0+
+Section: net
+URL: http://manpages.ubuntu.com/manpages/trusty/man1/comgt.1.html
+Architecture: mipsel_24kc
+Installed-Size: 102400
+Filename: comgt_0.32-r36_mipsel_24kc.ipk
+Size: 19461
+SHA256sum: 699d3668b4bc23fdb55059f419adedfeeb5520747bea482c7fe2b93df4f3d450
+Description:  comgt is a scripting language interpreter useful for establishing 
+ communications on serial lines and through PCMCIA modems as well as GPRS 
+ and 3G datacards.
+
+Package: dropbear
+Version: 2024.86-r2
+Depends: libc
+Alternatives: 100:/usr/bin/ssh-keygen:/usr/sbin/dropbear, 100:/usr/bin/scp:/usr/sbin/dropbear, 100:/usr/bin/ssh:/usr/sbin/dropbear
+License: MIT
+Section: net
+URL: https://matt.ucc.asn.au/dropbear/
+CPE-ID: cpe:/a:dropbear_ssh_project:dropbear_ssh
+Architecture: mipsel_24kc
+Installed-Size: 296960
+Filename: dropbear_2024.86-r2_mipsel_24kc.ipk
+Size: 117239
+SHA256sum: f18a4d640f55f8ed992207eb6949edca911f2a7d454f26a99c144b62c1c9d870
+Description:  A small SSH2 server/client designed for small memory environments.
+
+Package: dropbearconvert
+Version: 2024.86-r2
+Depends: libc
+License: MIT
+Section: utils
+URL: https://matt.ucc.asn.au/dropbear/
+CPE-ID: cpe:/a:dropbear_ssh_project:dropbear_ssh
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: dropbearconvert_2024.86-r2_mipsel_24kc.ipk
+Size: 26107
+SHA256sum: dd0f7a2b3bddbd088f0822887499975e06d8fa8068d3ff9a3fda8ae8571b8c66
+Description:  Utility for converting SSH keys
+
+Package: ebtables-nft
+Version: 1.8.10-r1
+Depends: libc, kmod-nft-bridge, xtables-nft, kmod-ebtables
+Provides: ebtables
+Alternatives: 300:/usr/sbin/ebtables:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/ebtables-restore:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/ebtables-save:/usr/sbin/xtables-nft-multi
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 1003520
+Filename: ebtables-nft_1.8.10-r1_mipsel_24kc.ipk
+Size: 35122
+SHA256sum: 3a823ccc915c76c9714907decaa9e353b338d8046b6a1e55fd35d62b5d638306
+Description:  Bridge firewall administration tool nft
+
+Package: fstools
+Version: 2024.07.14~408c2cc4-r1
+Depends: libc, ubox, ubi-utils
+License: GPL-2.0
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 204800
+Filename: fstools_2024.07.14~408c2cc4-r1_mipsel_24kc.ipk
+Size: 20849
+SHA256sum: ba521feae59310efb83a79ed96cd68bafdc614444fbace484528fec5255d9867
+Description:  OpenWrt filesystem tools
+
+Package: fwtool
+Version: 2019.11.12~8f7fe925-r1
+Depends: libc
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: fwtool_2019.11.12~8f7fe925-r1_mipsel_24kc.ipk
+Size: 4326
+SHA256sum: 3f501f28e690979576604d13003dbb2ec5183f8896240153b55d10da9b2c8d94
+Description:  Utility for appending and extracting firmware metadata and signatures
+
+Package: ip6tables-extra
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ip6tables-extra
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 471040
+Filename: ip6tables-extra_1.8.10-r1_mipsel_24kc.ipk
+Size: 14433
+SHA256sum: e74b7697908b666664434b40b4d1906cbf40f7031ee109ea27510edc4cb8b3eb
+Description:  iptables header matching modules for IPv6
+
+Package: ip6tables-mod-nat
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-nat6
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: ip6tables-mod-nat_1.8.10-r1_mipsel_24kc.ipk
+Size: 3528
+SHA256sum: 6db3a2f5732ffe3d7da3840d7e525d6e674003f4ecd99e92fbb22b3c3fcf832c
+Description:  iptables extensions for IPv6-NAT targets.
+
+Package: ip6tables-nft
+Version: 1.8.10-r1
+Depends: libc, kmod-ip6tables, xtables-nft
+Provides: ip6tables
+Alternatives: 300:/usr/sbin/ip6tables:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/ip6tables-restore:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/ip6tables-save:/usr/sbin/xtables-nft-multi
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 10240
+Filename: ip6tables-nft_1.8.10-r1_mipsel_24kc.ipk
+Size: 1081
+SHA256sum: bd74b27f507944cf9a2788558913a694821cd0d2569f8f04099d62998bd74bfd
+Description:  Extra ip6tables nftables nft binaries.
+ ip6tables-nft
+ ip6tables-nft-restore
+ ip6tables-nft-save
+ ip6tables-translate
+ ip6tables-restore-translate
+
+Package: ip6tables-zz-legacy
+Version: 1.8.10-r1
+Depends: libc, kmod-ip6tables, xtables-legacy
+Provides: ip6tables, ip6tables-legacy
+Alternatives: 200:/usr/sbin/ip6tables:/usr/sbin/xtables-legacy-multi, 200:/usr/sbin/ip6tables-restore:/usr/sbin/xtables-legacy-multi, 200:/usr/sbin/ip6tables-save:/usr/sbin/xtables-legacy-multi
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 10240
+Filename: ip6tables-zz-legacy_1.8.10-r1_mipsel_24kc.ipk
+Size: 1043
+SHA256sum: df6956d678c39cc724580ba1812095d1caaba2e89fb84f81eb77ade4f30676d9
+Description:  IPv6 firewall administration tool
+
+Package: iptables-mod-checksum
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-checksum
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-checksum_1.8.10-r1_mipsel_24kc.ipk
+Size: 2042
+SHA256sum: 59b250f366ed3ca8405668b0204d1244abb152c99a9c33eae313c96207060b3b
+Description:  iptables extension for the CHECKSUM calculation target
+
+Package: iptables-mod-cluster
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-cluster
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-cluster_1.8.10-r1_mipsel_24kc.ipk
+Size: 3143
+SHA256sum: 34921dfe943688b627fbaf6f96ef3b115f3a4854cb705f79eddb44c6715c61c9
+Description:  iptables extensions for matching cluster.
+ 
+ Netfilter (IPv4/IPv6) module for matching cluster
+ This option allows you to build work-load-sharing clusters of
+ network servers/stateful firewalls without having a dedicated
+ load-balancing router/server/switch. Basically, this match returns
+ true when the packet must be handled by this cluster node. Thus,
+ all nodes see all packets and this match decides which node handles
+ what packets. The work-load sharing algorithm is based on source
+ address hashing.
+ 
+ This module is usable for ipv4 and ipv6.
+ 
+ If you select it, it enables kmod-ipt-cluster.
+ 
+ see `iptables -m cluster --help` for more information.
+
+Package: iptables-mod-conntrack-extra
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-conntrack-extra
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 409600
+Filename: iptables-mod-conntrack-extra_1.8.10-r1_mipsel_24kc.ipk
+Size: 14919
+SHA256sum: e93b7c27784176bd0c20b087c60764428a2a661f9e364e5f1e22fcb23b000576
+Description:  Extra iptables extensions for connection tracking.
+ 
+ Matches:
+ - connbytes
+ - connlimit
+ - connmark
+ - recent
+ - helper
+ 
+ Targets:
+ - CONNMARK
+ 
+
+Package: iptables-mod-extra
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-extra
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 337920
+Filename: iptables-mod-extra_1.8.10-r1_mipsel_24kc.ipk
+Size: 11101
+SHA256sum: a1daeb76416f390473d16648bb762e0013f33c793d65ab85728b9e53f399a464
+Description:  Other extra iptables extensions.
+ 
+ Matches:
+ - addrtype
+ - condition
+ - owner
+ - pkttype
+ - quota
+ 
+
+Package: iptables-mod-filter
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-filter
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: iptables-mod-filter_1.8.10-r1_mipsel_24kc.ipk
+Size: 5862
+SHA256sum: 7f6593e7dbd5dc7434392db8daf3eee3a7dd266813fd50ab7e534001e33c55a9
+Description:  iptables extensions for packet content inspection.
+ Includes support for:
+ 
+ Matches:
+ - string
+ - bpf
+ 
+
+Package: iptables-mod-hashlimit
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-hashlimit
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-hashlimit_1.8.10-r1_mipsel_24kc.ipk
+Size: 8804
+SHA256sum: e2c58c64bac21bffeb1932ca4010b4572b4bb01eefddfad95e995be945561c8e
+Description:  iptables extensions for hashlimit matching
+ 
+ Matches:
+ - hashlimit
+ 
+
+Package: iptables-mod-ipopt
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-ipopt
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 942080
+Filename: iptables-mod-ipopt_1.8.10-r1_mipsel_24kc.ipk
+Size: 22944
+SHA256sum: 217a3b96c131c0adc735cb02db37000f42e319a1ac59b8a3b8fe343fca06b789
+Description:  iptables extensions for matching/changing IP packet options.
+ 
+ Matches:
+ - dscp
+ - ecn
+ - length
+ - statistic
+ - tcpmss
+ - unclean
+ - hl
+ 
+ Targets:
+ - DSCP
+ - CLASSIFY
+ - ECN
+ - HL
+ 
+
+Package: iptables-mod-iprange
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-iprange
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-iprange_1.8.10-r1_mipsel_24kc.ipk
+Size: 3764
+SHA256sum: f8ff9e664697da44fa113adb54da79184521ed58be67d32ecdbf64f66fe130fd
+Description:  iptables extensions for matching ip ranges.
+ 
+ Matches:
+ - iprange
+ 
+
+Package: iptables-mod-ipsec
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-ipsec
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 204800
+Filename: iptables-mod-ipsec_1.8.10-r1_mipsel_24kc.ipk
+Size: 7313
+SHA256sum: 723e15b6abe2f4d3235d2f64c80058320fbea897ed18dd8540179216a04ffe6e
+Description:  iptables extensions for matching ipsec traffic.
+ 
+ Matches:
+ - ah
+ - esp
+ - policy
+ 
+
+Package: iptables-mod-led
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-led
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-led_1.8.10-r1_mipsel_24kc.ipk
+Size: 2555
+SHA256sum: edc1a013e62b111924847426b8a24fbf2ecc82e20a617786b3fe8b4d8f803d4c
+Description:  iptables extension for triggering a LED.
+ 
+ Targets:
+ - LED
+ 
+
+Package: iptables-mod-nat-extra
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-nat-extra
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: iptables-mod-nat-extra_1.8.10-r1_mipsel_24kc.ipk
+Size: 3534
+SHA256sum: 7a01569f40b11f0bc8b4d7a021b2841dd529a9a5d120399090450904d4abbf09
+Description:  iptables extensions for extra NAT targets.
+ 
+ Targets:
+ - MIRROR
+ - NETMAP
+
+Package: iptables-mod-nflog
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-nfnetlink-log, kmod-ipt-nflog
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-nflog_1.8.10-r1_mipsel_24kc.ipk
+Size: 2861
+SHA256sum: f1a166ef6c27e474e469ada0fea5b6d26160a671072f8917c4d44d53092cfa43
+Description:  iptables extension for user-space logging via NFNETLINK.
+ 
+ Includes:
+ - libxt_NFLOG
+ 
+
+Package: iptables-mod-nfqueue
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-nfnetlink-queue, kmod-ipt-nfqueue
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-nfqueue_1.8.10-r1_mipsel_24kc.ipk
+Size: 3187
+SHA256sum: 64bfb4c38674e1275d545b654e435a2591865129d2a8317b0926d08d4cbb223c
+Description:  iptables extension for user-space queuing via NFNETLINK.
+ 
+ Includes:
+ - libxt_NFQUEUE
+ 
+
+Package: iptables-mod-physdev
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-physdev
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-physdev_1.8.10-r1_mipsel_24kc.ipk
+Size: 2513
+SHA256sum: aaf6772eec88cd781116d1e24ccf180629fa68fb14aa72f16cbdc29dfc2f8916
+Description:  The iptables physdev match.
+
+Package: iptables-mod-rpfilter
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-rpfilter
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-rpfilter_1.8.10-r1_mipsel_24kc.ipk
+Size: 2534
+SHA256sum: 82c8f34bd8ca419e1939eb25810b3442129fd804d99e7bf17dde638171a39db8
+Description:  iptables extensions for reverse path filter test on a packet
+ 
+ Matches:
+ - rpfilter
+ 
+
+Package: iptables-mod-socket
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-socket
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-socket_1.8.10-r1_mipsel_24kc.ipk
+Size: 2473
+SHA256sum: 2eddaf2f2b6ee952e738fcc297c44a5e539584ebb599bac0f5a6776cae3accf6
+Description:  Socket match iptables extensions.
+ 
+ Matches:
+ - socket
+ 
+
+Package: iptables-mod-tee
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-tee
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-tee_1.8.10-r1_mipsel_24kc.ipk
+Size: 2423
+SHA256sum: 4b5db2c783b88466da5dc25362f496f4221963c8c25d3d211b31bdb6df4ec203
+Description:  TEE iptables extensions.
+ 
+ Targets:
+ - TEE
+ 
+
+Package: iptables-mod-tproxy
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-tproxy
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-tproxy_1.8.10-r1_mipsel_24kc.ipk
+Size: 2489
+SHA256sum: cc8f27d97e59457126be2fa27a1cd7a7477354b1860995abd6e9d4e88ded79ca
+Description:  Transparent proxy iptables extensions.
+ 
+ Targets:
+ - TPROXY
+ 
+
+Package: iptables-mod-trace
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-debug
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-trace_1.8.10-r1_mipsel_24kc.ipk
+Size: 1814
+SHA256sum: b7afe166ff26e1455ef205e9c2d90efc24627d67989326318a28175c67ce5483
+Description:  iptables extension for TRACE target
+ 
+ Includes:
+ - libxt_TRACE
+ 
+
+Package: iptables-mod-u32
+Version: 1.8.10-r1
+Depends: libc, libxtables12, kmod-ipt-u32
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: iptables-mod-u32_1.8.10-r1_mipsel_24kc.ipk
+Size: 3138
+SHA256sum: 69b1798a21d3a2b35adf984d0333a7890597e8e8129555c97e87f6f8d432e5e7
+Description:  U32 iptables extensions.
+ 
+ Matches:
+ - u32
+ 
+
+Package: iptables-nft
+Version: 1.8.10-r1
+Depends: libc, kmod-ipt-core, xtables-nft
+Provides: iptables
+Alternatives: 300:/usr/sbin/iptables:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/iptables-restore:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/iptables-save:/usr/sbin/xtables-nft-multi
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 10240
+Filename: iptables-nft_1.8.10-r1_mipsel_24kc.ipk
+Size: 1078
+SHA256sum: 6339f2c24f1ea02e64a2df1030934c8d1f2862d14247c84bf1f59e0ba49f475d
+Description:  Extra iptables nftables nft binaries.
+ iptables-nft
+ iptables-nft-restore
+ iptables-nft-save
+ iptables-translate
+ iptables-restore-translate
+
+Package: iptables-zz-legacy
+Version: 1.8.10-r1
+Depends: libc, xtables-legacy
+Provides: iptables, iptables-legacy
+Alternatives: 200:/usr/sbin/iptables:/usr/sbin/xtables-legacy-multi, 200:/usr/sbin/iptables-restore:/usr/sbin/xtables-legacy-multi, 200:/usr/sbin/iptables-save:/usr/sbin/xtables-legacy-multi
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 10240
+Filename: iptables-zz-legacy_1.8.10-r1_mipsel_24kc.ipk
+Size: 1227
+SHA256sum: fcd6f0bd9f6ee1e285d55a13c6d9c107df0f87c2190e672148f6ab1fe49d5bbd
+Description:  IP firewall administration tool.
+ 
+ Matches:
+ - icmp
+ - tcp
+ - udp
+ - comment
+ - conntrack
+ - limit
+ - mac
+ - mark
+ - multiport
+ - set
+ - state
+ - time
+ 
+ Targets:
+ - ACCEPT
+ - CT
+ - DNAT
+ - DROP
+ - REJECT
+ - FLOWOFFLOAD
+ - LOG
+ - MARK
+ - MASQUERADE
+ - REDIRECT
+ - SET
+ - SNAT
+ - TCPMSS
+ 
+ Tables:
+ - filter
+ - mangle
+ - nat
+ - raw
+ 
+
+Package: jboot-tools
+Version: 1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: jboot-tools_1_mipsel_24kc.ipk
+Size: 3836
+SHA256sum: a921edd63538c2195b6ee350a6fd0ac29d01996f8d7ac6031e056263c99d37d1
+Description:  This package contains:
+ jboot_config_read.c: partially read the config partition of JBOOT based D-Link devices.
+
+Package: libatomic1
+Version: 13.3.0-r4
+Depends: libgcc1
+Provides: libatomic
+License: GPL-3.0-with-GCC-exception
+Section: libs
+URL: http://gcc.gnu.org/
+ABIVersion: 1
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: libatomic1_13.3.0-r4_mipsel_24kc.ipk
+Size: 6124
+SHA256sum: 47de6eb2c38d43d6b32d34b73e8e003e308a1b631a0542962bf99eaad0fb1366
+Description:  Atomic support library
+
+Package: libgcc1
+Version: 13.3.0-r4
+Provides: libgcc
+License: GPL-3.0-with-GCC-exception
+Section: libs
+URL: http://gcc.gnu.org/
+ABIVersion: 1
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: libgcc1_13.3.0-r4_mipsel_24kc.ipk
+Size: 39038
+SHA256sum: 543f998ab889c31d7955c2483a5917ecf2d0cc2e54a2a0a5c37d9f64d6065722
+Description:  GCC support library
+
+Package: libip4tc2
+Version: 1.8.10-r1
+Depends: libc
+Provides: libip4tc
+License: GPL-2.0
+Section: libs
+URL: https://netfilter.org/
+ABIVersion: 2
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: libip4tc2_1.8.10-r1_mipsel_24kc.ipk
+Size: 10099
+SHA256sum: 1230dde14ac6ce7b706316d4e972e2740da26125347274c8704e8a80d2efe126
+Description:  IPv4 firewall - shared libiptc library
+
+Package: libip6tc2
+Version: 1.8.10-r1
+Depends: libc
+Provides: libip6tc
+License: GPL-2.0
+Section: libs
+URL: https://netfilter.org/
+ABIVersion: 2
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: libip6tc2_1.8.10-r1_mipsel_24kc.ipk
+Size: 10261
+SHA256sum: 7a02f4b0f50799904dbe89624196546e25378e32e80c1a34279bfb586fc0638f
+Description:  IPv6 firewall - shared libiptc library
+
+Package: libiptext-nft0
+Version: 1.8.10-r1
+Depends: libc, libxtables12
+Provides: libiptext-nft
+License: GPL-2.0
+Section: libs
+URL: https://netfilter.org/
+ABIVersion: 0
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: libiptext-nft0_1.8.10-r1_mipsel_24kc.ipk
+Size: 3779
+SHA256sum: c556d5fd3ff04d784e11b134b71a314dd9a40210c0897229415b220dee4e355f
+Description:  IPv4/IPv6 firewall - shared libiptext nft library
+
+Package: libiptext0
+Version: 1.8.10-r1
+Depends: libc, libxtables12
+Provides: libiptext
+License: GPL-2.0
+Section: libs
+URL: https://netfilter.org/
+ABIVersion: 0
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 215040
+Filename: libiptext0_1.8.10-r1_mipsel_24kc.ipk
+Size: 32088
+SHA256sum: 3423fa2fd6d63148bc3093faa7dcf7f309fb922010a5e78c30d0d6b6f598caec
+Description:  IPv4 firewall - shared libiptext library
+
+Package: libiptext6-0
+Version: 1.8.10-r1
+Depends: libc, libxtables12
+Provides: libiptext6
+License: GPL-2.0
+Section: libs
+URL: https://netfilter.org/
+ABIVersion: -0
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: libiptext6-0_1.8.10-r1_mipsel_24kc.ipk
+Size: 4486
+SHA256sum: 6420dc41ac85d2ab55205fd429b281fb1db8dde7ce1d16df357464416ce80e35
+Description:  IPv6 firewall - shared libiptext library
+
+Package: libpthread
+Version: 1.2.5-r4
+Depends: libgcc1
+License: GPL-3.0-with-GCC-exception
+Section: libs
+URL: http://www.musl-libc.org/
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mipsel_24kc
+Installed-Size: 10240
+Filename: libpthread_1.2.5-r4_mipsel_24kc.ipk
+Size: 908
+SHA256sum: 3a00f5b2474c7e412dd99772cc745bbc7eba800a6ffb2118b7c6adc6c45a116e
+Description:  POSIX thread library
+
+Package: librt
+Version: 1.2.5-r4
+Depends: libpthread
+License: GPL-3.0-with-GCC-exception
+Section: libs
+URL: http://www.musl-libc.org/
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mipsel_24kc
+Installed-Size: 10240
+Filename: librt_1.2.5-r4_mipsel_24kc.ipk
+Size: 920
+SHA256sum: 6f705f650d335d6efbc6a9666a22b417df3f01d4a95b65f646df4f6f05904844
+Description:  POSIX.1b RealTime extension library
+
+Package: libstdcpp6
+Version: 13.3.0-r4
+Provides: libstdcpp
+License: GPL-3.0-with-GCC-exception
+Section: libs
+URL: http://gcc.gnu.org/
+ABIVersion: 6
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mipsel_24kc
+Installed-Size: 2119680
+Filename: libstdcpp6_13.3.0-r4_mipsel_24kc.ipk
+Size: 667761
+SHA256sum: 88e3c96165b1657f6e41b9c444c171da85d9bf1239b33e8f176371d522d5aa3c
+Description:  GNU Standard C++ Library v3
+
+Package: libxdp143
+Version: 1.4.3-r1
+Depends: libc, libbpf1
+Provides: libxdp
+License: LGPL-2.1 OR BSD-2-Clause
+Section: libs
+URL: https://github.com/xdp-project/xdp-tools/
+ABIVersion: 143
+Architecture: mipsel_24kc
+Installed-Size: 460800
+Filename: libxdp143_1.4.3-r1_mipsel_24kc.ipk
+Size: 109299
+SHA256sum: fdb1e9788ffe8571b3361ec90e1f31b2d371bbeab5e93b172529bdea4126d00f
+Description:  libxdp - library for attaching XDP programs and using AF_XDP sockets
+
+Package: libxtables12
+Version: 1.8.10-r1
+Depends: libc
+Provides: libxtables
+License: GPL-2.0
+Section: libs
+URL: https://netfilter.org/
+ABIVersion: 12
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: libxtables12_1.8.10-r1_mipsel_24kc.ipk
+Size: 20004
+SHA256sum: 04d159a323c7eade61df1073cf2c22250fa2dfaa2dd34c2dc87ec31286a66686
+Description:  IPv4/IPv6 firewall - shared xtables library
+
+Package: linux-atm
+Version: 2.5.2-r8
+Depends: libc
+License: GPL-2.0+
+Section: libs
+URL: http://linux-atm.sourceforge.net/
+CPE-ID: cpe:/a:linux-atm:linux-atm
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: linux-atm_2.5.2-r8_mipsel_24kc.ipk
+Size: 15038
+SHA256sum: 116950cbf3f40b15f6666d21962a512fc33f5f311a4a5173bda068a73a5c9417
+Description:  This package contains a library for accessing the Linux ATM subsystem.
+
+Package: mtd
+Version: 26
+Depends: libc, libubox20240329
+License: GPL-2.0+
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: mtd_26_mipsel_24kc.ipk
+Size: 14718
+SHA256sum: ce1bae1500c79e3cfecc8963a3ca23bc3f237dc0b3389217648c5e0e89e407fc
+Description:  This package contains an utility useful to upgrade from other firmware or 
+ older OpenWrt releases.
+
+Package: nand-utils
+Version: 2.2.1-r1
+Depends: libc
+License: GPLv2
+Section: utils
+URL: http://www.linux-mtd.infradead.org/
+CPE-ID: cpe:/a:mtd-utils_project:mtd-utils
+Architecture: mipsel_24kc
+Installed-Size: 409600
+Filename: nand-utils_2.2.1-r1_mipsel_24kc.ipk
+Size: 61193
+SHA256sum: 25c58ea9377e043d5ebe1a95241a3124c9280e1f9c9d6c8806d66f563275ba82
+Description:  Utilities for NAND devices.
+
+Package: ntfs3-mount
+Version: 10
+Depends: libc, kmod-fs-ntfs3
+Section: utils
+Architecture: all
+Installed-Size: 10240
+Filename: ntfs3-mount_10_all.ipk
+Size: 885
+SHA256sum: 72f13764b437510707c3d3d490919931722b724f2803369e2248a8079f66d04c
+Description:  NTFS mount script for Paragon NTFS3 driver
+
+Package: qosify
+Version: 2024.09.20~1501e093-r1
+Depends: libc, libbpf1, libubox20240329, libubus20250102, libnl-tiny1, kmod-sched-cake, kmod-sched-bpf, kmod-ifb, tc
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 112640
+Filename: qosify_2024.09.20~1501e093-r1_mipsel_24kc.ipk
+Size: 23562
+SHA256sum: e5e898dcdb1787d69e297ba928e356efb349bddab78471ecced309822b4e553b
+Description:  A simple QoS solution based eBPF + CAKE
+
+Package: snapshot-tool
+Version: 2024.07.14~408c2cc4-r1
+Depends: libc, libubox20240329, fstools
+License: GPL-2.0
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: snapshot-tool_2024.07.14~408c2cc4-r1_mipsel_24kc.ipk
+Size: 4358
+SHA256sum: c2cec569de44e2ced7718acc7dfaffb7c5f89c55e9436db7b1eb7496982c51c5
+Description:  rootfs snapshoting tool
+
+Package: ubi-utils
+Version: 2.2.1-r1
+Depends: libc
+License: GPLv2
+Section: utils
+URL: http://www.linux-mtd.infradead.org/
+CPE-ID: cpe:/a:mtd-utils_project:mtd-utils
+Architecture: mipsel_24kc
+Installed-Size: 880640
+Filename: ubi-utils_2.2.1-r1_mipsel_24kc.ipk
+Size: 100227
+SHA256sum: 6f31e12ea9d3c36d972d6fc328cc45e0ad210c461caef1c79da46ba1d4d00b27
+Description:  Utilities for manipulating memory technology devices.
+
+Package: uboot-envtools
+Version: 2024.07-r1
+Depends: libc
+License: GPL-2.0 GPL-2.0+
+Section: utils
+URL: http://www.denx.de/wiki/U-Boot
+Architecture: mipsel_24kc
+Installed-Size: 92160
+Filename: uboot-envtools_2024.07-r1_mipsel_24kc.ipk
+Size: 15049
+SHA256sum: 8bccf5eeb972edf10f4bbcdbd7bf905793c7ac41bbfbff8eccec824ece010cf5
+Description:  This package includes tools to read and modify U-Boot bootloader environment.
+
+Package: umbim
+Version: 2022.08.13~146bc77c-r25
+Depends: libc, libubox20240329, kmod-usb-net, kmod-usb-net-cdc-mbim, wwan
+License: GPL-2.0
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 81920
+Filename: umbim_2022.08.13~146bc77c-r25_mipsel_24kc.ipk
+Size: 14663
+SHA256sum: b8ffb46bbd3471747fb16078748aa1ff5f024cb7b425590636b815dbd1124210
+Description:  umbim is a command line tool for controlling mobile broadband modems using
+ the MBIM-protocol.
+
+Package: uqmi
+Version: 2025.07.30~7914da43-r2
+Depends: libc, libubox20240329, libblobmsg-json20240329, kmod-usb-net, kmod-usb-net-qmi-wwan, wwan
+License: GPL-2.0
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 153600
+Filename: uqmi_2025.07.30~7914da43-r2_mipsel_24kc.ipk
+Size: 43311
+SHA256sum: 446c8573dadd030fffd73254c96b925e1db196b3e3d6e147bf89b165fb5942a5
+Description:  uqmi is a command line tool for controlling mobile broadband modems using
+ the QMI-protocol.
+
+Package: xdp-filter
+Version: 1.4.3-r1
+Depends: libc, libxdp143
+License: GPL-2.0-only
+Section: net
+URL: https://github.com/xdp-project/xdp-tools/
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: xdp-filter_1.4.3-r1_mipsel_24kc.ipk
+Size: 36868
+SHA256sum: 90fd265afa94e8e2aaa6d98b19f55c0a0e328dd20fd4c016348ce6f7cc53251b
+Description:  xdp-filter is a packet filtering utility powered by XDP. It is deliberately
+ simple and so does not have the same matching capabilities as, e.g.,
+ netfilter. Instead, thanks to XDP, it can achieve very high drop rates:
+ tens of millions of packets per second on a single CPU core.
+
+Package: xdp-loader
+Version: 1.4.3-r1
+Depends: libc, libxdp143
+License: GPL-2.0-only
+Section: net
+URL: https://github.com/xdp-project/xdp-tools/
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: xdp-loader_1.4.3-r1_mipsel_24kc.ipk
+Size: 34593
+SHA256sum: f68641dce40433c8e8520a7e803d938d266de5a3d085306305df0159c2118f96
+Description:  xdp-loader is a simple loader for XDP programs with support for attaching
+ multiple programs to the same interface. To achieve this it exposes the same
+ load and unload semantics exposed by the libxdp library.
+
+Package: xdpdump
+Version: 1.4.3-r1
+Depends: libc, libxdp143, libpcap1
+License: GPL-2.0-only
+Section: net
+URL: https://github.com/xdp-project/xdp-tools/
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: xdpdump_1.4.3-r1_mipsel_24kc.ipk
+Size: 39809
+SHA256sum: 24ec3dc60b58b1a50cb93e0c285cc373398be049d24f2a58dc3b59a2c323d160
+Description:  xdpdump - a simple tcpdump like tool for capturing packets at the XDP layer
+
+Package: xtables-legacy
+Version: 1.8.10-r1
+Depends: libc, kmod-ipt-core, libip4tc2, libip6tc2, libiptext0, libiptext6-0, libxtables12
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 71680
+Filename: xtables-legacy_1.8.10-r1_mipsel_24kc.ipk
+Size: 21658
+SHA256sum: 3f7cb02f1b5751e380d78b786f34251bd3e99e5463f2e773d96ef78e8f630a15
+Description:  IP firewall administration tool
+
+Package: xtables-nft
+Version: 1.8.10-r1
+Depends: libc, libnftnl11, libiptext0, libiptext6-0, libiptext-nft0, kmod-nft-compat
+License: GPL-2.0
+Section: net
+URL: https://netfilter.org/
+CPE-ID: cpe:/a:netfilter:iptables
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: xtables-nft_1.8.10-r1_mipsel_24kc.ipk
+Size: 62102
+SHA256sum: c386e4630cdcb80c2b1a68bf51fb5fd008a419db0fdf6e407c0d7712915ae5da
+Description:  IP firewall administration tool nft
+
+Package: yafut
+Version: 2024.06.10~38439f8a-r1
+Depends: libc
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 143360
+Filename: yafut_2024.06.10~38439f8a-r1_mipsel_24kc.ipk
+Size: 46389
+SHA256sum: b805fe4abd8651a597122b694a80fd1a429225270d38251ccee5241928baa21d
+Description:  A program for copying files from/to Yaffs file systems from userspace.
+
